@@ -1,6 +1,6 @@
 #!/bin/ksh
 
-PROC_NAME=fbrecv_f
+PROC_NAME=process_id_name_etc
 
 wait_stop() {
   echo "Wait for stop process : $1"
